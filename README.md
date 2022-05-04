@@ -1,7 +1,7 @@
 # NamePlateGenerator
 Fast, Automated Generation of GCode Files to Engrave Text
 
-The purpose of the NamePlateGenerator software is to automate the production of GCode files which create engraved nameplates.
+The purpose of the NamePlateGenerator software is to automate the production of GCode files which creates engraved nameplates.
 
 This project was created to meet a specific purpose for a given set of input and output requirements. The software is not polished and is not particularly productionised. 
 This means that the operation is not as smooth and generic as might be desired and there are not as many features as there probably should be. There are, however, no known bugs. 
